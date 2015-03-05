@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -67,9 +67,9 @@ namespace Planetarium_Utility
         // SET VALUES FROM SAVED TEXT FILE
         private void setDefaultValue()
         {
-            /*           string[] lines = File.ReadAllLines(myDocPath+fileName);
+                       string[] lines = File.ReadAllLines(myDocPath+fileName);
                        string[] values = null;
-                               /* Order of values:
+                               /* Order of values:*/
                      
                        int      v = 0;
 
@@ -81,7 +81,7 @@ namespace Planetarium_Utility
                        }
 
                        //renderer
-                       */
+                       
         }
 
         //
